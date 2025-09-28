@@ -3,7 +3,7 @@
 **Author:** Raghu S Jambagi  
 **Date:** Sep 28, 2025  
 
-**Expo Snack:** PASTE_YOUR_SNACK_LINK_HERE  
+**Expo Snack:** [PASTE_YOUR_SNACK_LINK_HERE](https://snack.expo.dev/@jambagi/136f49)  
 **GitHub Repo:** https://github.com/Raghu-s-jambagi/monova-assignment/tree/main/joyous-yellow-tortillas  
 
 ---
