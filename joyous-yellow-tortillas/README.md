@@ -1,23 +1,43 @@
-# Monova Assignment
-# How to Run
-Expo Snack: [your snack link]  
-GitHub Repo: [your github repo link]  
+# Monova Assignment — React Native (Expo Snack)
 
-#Features
-- 2 column inventory grid with cards
-- Filter chips for Casual Formal Sport
-- Outfit carousel with horizontal scroll and scale effect
-- Loading skeleton before data shows
-- Empty state message if filters have no result
-- Works on web and mobile with Expo Snack
+**Author:** Raghu S Jambagi  
+**Date:** Sep 28, 2025  
 
-# Assumptions
-- Data is mocked in inventory.js
-- Used React Native Animated API for simple animations
-- Project made for assignment demo only
+**Expo Snack:** PASTE_YOUR_SNACK_LINK_HERE  
+**GitHub Repo:** https://github.com/Raghu-s-jambagi/monova-assignment/tree/main/joyous-yellow-tortillas  
 
-#Components
-- ItemCard shows item with image and tags
-- FilterBar shows category chips
-- OutfitCarousel shows outfits in scrollable list
-- HomeScreen combines everything
+---
+
+## Features
+- 2 column inventory grid with cards  
+- Filter chips for Casual / Formal / Sport  
+- Outfit carousel with horizontal scroll and scale effect  
+- Loading skeleton before data shows  
+- Empty state message if filters have no result  
+- Works on web and mobile with Expo Snack  
+
+---
+
+## Assumptions
+- Data is mocked in `inventory.js` (or `mockInventory.ts`)  
+- Used React Native Animated API for simple animations  
+- Project made for assignment demo only  
+
+---
+
+## Components
+- **ItemCard** — shows item with image and tags  
+- **FilterBar** — shows category chips  
+- **OutfitCarousel** — scrollable outfit list  
+- **HomeScreen** — combines everything  
+
+---
+
+## How to Run
+1. Open the Expo Snack link above (runs on web & mobile).  
+2. Or clone repo and run locally:
+   ```bash
+   git clone https://github.com/Raghu-s-jambagi/monova-assignment.git
+   cd joyous-yellow-tortillas
+   npm install
+   npx expo start
